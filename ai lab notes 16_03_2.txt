@@ -1,0 +1,39 @@
+logical programming - has knowledge base 
+
+screen mobile(997979797)
+mobile is relation 
+screen and the number are objects 
+
+. functional vs logic programming 
+. prolog programming 
+. in logic, computation is not sequential 
+
+syntax
+relation(object1, object2....)
+always use small case letters
+:- means if
+; means or 
+, means and 
+
+eg. tom is a cat
+1. cat - relation , tom becomes object, cat(tom).   {after each fact u need toput " . ", its in syntax
+2. tom,cat - object, animal(tom,cat)
+
+eg. bitches love to eat dick
+1. loves_to_eat(bitches,dick), sometimes this might also give dick loves to eat bitches, because computer is dumb, depends on what we assume to be the dominant object 
+when u give queries it might give diff results 
+
+thats why consider then as 1st object and 2nd object and suppose one priority
+
+
+eg. hair is black
+1. colour(hair,black)
+
+eg. fat bitches are lazy
+1. lazy(fat bitches)
+
+
+
+
+ 
+
